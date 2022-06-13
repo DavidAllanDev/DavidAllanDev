@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidAllanDev
+- 👋 Hi, I’m David Allan
 - 👀 I’m interested in OOP development, C#, Rust, RoR and may more.
 - 🌱 I’m currently learning Rust Lang
 - 💞️ I’m looking to collaborate on Linux and Fee Software realetaed projects.
